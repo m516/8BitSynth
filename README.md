@@ -1,5 +1,12 @@
 # Arduino-8BitSynth
-Libraries, programs, and hardware that enable an Arduino to convert MIDI instructions into audible sound. Built on an Arduino Mega
+A MIDI synthesizer built for the Arduino Mega.
+
+Features:
+* Four-tone polyphony
+* Timbre customizable with a wavetable.
+* Wavetable presets available for sine, square, and sawtooth waves.
+
+**Note that this was a personal project. Consider using more feature-rich libraries like [Mozzi](https://sensorium.github.io/Mozzi/)**
 
 ## Installation
 To install this library, simply place it in the Libraries folder of your Arduino sketch folder location
